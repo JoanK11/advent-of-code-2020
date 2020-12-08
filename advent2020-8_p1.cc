@@ -10,6 +10,7 @@ int main() {
     
     vector<int> comptador(634, 0);
     int count = 0, i = 0;
+    
     while (comptador[i] == 0) {
         ++comptador[i];
         if (word[i] == "acc") {
