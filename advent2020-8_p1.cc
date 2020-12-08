@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-// 634
+
 int main() {
     vector<string> word(634);
     vector<int> number(634);
@@ -24,5 +24,3 @@ int main() {
     }
     cout << count << endl;
 }
-            
-            
