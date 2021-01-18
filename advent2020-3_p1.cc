@@ -2,11 +2,11 @@
 using namespace std;
 
 int main () {
-    string word;
+    string s;
     int count = 0, pos = 0;
-    while (cin >> word) {
-        if (pos > 30) pos = pos - 31;
-        if (word[pos] == '#') ++count;
+    while (cin >> s) {
+        if (pos > 30) pos -= 31;
+        if (s[pos] == '#') ++count;
         pos += 3;
     }
     cout << count << endl;
