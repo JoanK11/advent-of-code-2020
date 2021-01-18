@@ -10,7 +10,7 @@ int main() {
         for (int i = 0; i < n; ++i) {
             if (pwd[i] == letter) ++count;
         }
-        if ((count >= min) and (count <= max)) ++total;
+        if (count >= min and count <= max) ++total;
     }
     cout << total << endl;
 }
