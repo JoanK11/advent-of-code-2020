@@ -1,19 +1,16 @@
 #include <iostream>
-#include <iomanip>
 using namespace std;
 
 int main() {
     int min, max, total = 0;
-    char lletra, x;
-    string codi;
-    while (cin >> min >> x >> max >> lletra >> x >> codi){
-        int count = 0;
-        for (int i = 0; i < codi.length(); ++i) {
-            if (codi[i] == lletra)
-                ++count;
+    char letter, x;
+    string pwd;
+    while (cin >> min >> x >> max >> letter >> x >> pwd) {
+        int count = 0, n = pwd.length();
+        for (int i = 0; i < n; ++i) {
+            if (pwd[i] == letter) ++count;
         }
-        if ((count >= min) and (count <= max))
-        ++total;
+        if ((count >= min) and (count <= max)) ++total;
     }
     cout << total << endl;
 }
