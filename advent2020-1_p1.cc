@@ -2,23 +2,18 @@
 #include <vector>
 using namespace std;
 
-int cerca(vector<int> vector, int x) {
-    for (int i = 0; i <= x; ++i) {
-        for (int j = 0; j <= x; ++j) {
-            if (vector[i] + vector[j] == 2020)
-                return vector[i] * vector[j];
+int search(const vector<int>& v, int n) {
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) {
+            if (v[i] + v[j] == 2020) return v[i]*v[j];
         }
     }
     return 0;
 }
 
-
 int main() {
-    int x, pos = 0;
-    vector<int> vector(1000);
-    while (cin >> x) {
-        vector[pos] = x;
-        ++pos;
-    }
-    cout << cerca(vector, pos) << endl;
+    int n = 1000;
+    vector<int> v(n);
+    for (int i = 0; i < n; ++i) cin >> v[i];
+    cout << search(v, n) << endl;
 }
