@@ -10,4 +10,4 @@ int main () {
         pos += 3;
     }
     cout << count << endl;
-}
+}  
