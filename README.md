@@ -11,3 +11,5 @@
 | Day 5  | [Problem 5](https://adventofcode.com/2020/day/5)  | [day5p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-5_p1.cc) - [day5p2.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-5_p2.cc) | 46 ms - 66 ms | ✓  
 | Day 6  | [Problem 6](https://adventofcode.com/2020/day/6)  |
 | Day 7  | [Problem 7](https://adventofcode.com/2020/day/7)  |
+| Day 8  | [Problem 7](https://adventofcode.com/2020/day/8)  |
+| Day 9  | [Problem 7](https://adventofcode.com/2020/day/9)  |
