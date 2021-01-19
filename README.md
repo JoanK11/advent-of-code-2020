@@ -4,7 +4,7 @@
 
 | # Day  | Problem                                            | Solution         | Time execution  | Finished |
 |--------|----------------------------------------------------|------------------|-----------------|----------|
-| Day 1  | [Problem 1](https://adventofcode.com/2020/day/1)   | [day1p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-1_p1.cc) - [day1p2.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-1_p2.cc) | 22 ms - 79 ms | ✓
+| Day 1  | [Problem 1](https://adventofcode.com/2020/day/1)   | [day1p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-1_p1.cc) - [day1p2.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-1_p2.cc) | 22 ms - 52 ms | ✓
 | Day 2  | [Problem 2](https://adventofcode.com/2020/day/2)   | [day2p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-2_p1.cc) - [day2p2.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-2_p2.cc) | 54 ms - 22 ms | ✓
 | Day 3  | [Problem 3](https://adventofcode.com/2020/day/3)   | [day3p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-3_p1.cc) - [day3p2.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-3_p2.cc) | 22 ms - 21 ms | ✓
 | Day 4  | [Problem 4](https://adventofcode.com/2020/day/4)   |
