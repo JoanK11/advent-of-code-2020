@@ -12,6 +12,6 @@
 | Day 6  | [Problem 6](https://adventofcode.com/2020/day/6)   |
 | Day 7  | [Problem 7](https://adventofcode.com/2020/day/7)   |
 | Day 8  | [Problem 8](https://adventofcode.com/2020/day/8)   | [day8p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-8_p1.cc) - [day8p2.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-8_p2.cc) | 33 ms - 44 ms | ✓  
-| Day 9  | [Problem 9](https://adventofcode.com/2020/day/9)   | [day9p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-9_p1.cc) - [day9p2.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-9_p2.cc) | 21 ms - 14 ms | ✓
+| Day 9  | [Problem 9](https://adventofcode.com/2020/day/9)   | [day9p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-9_p1.cc) - [day9p2.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-9_p2.cc) | 14 ms - 14 ms | ✓
 | Day 10 | [Problem 10](https://adventofcode.com/2020/day/10) |  
 | Day 11 | [Problem 11](https://adventofcode.com/2020/day/11) | [day11p1.cc](https://github.com/JoanKnight11/advent-of-code-2020/blob/main/src/advent2020-11_p1.cc) - | 75 ms - | 
